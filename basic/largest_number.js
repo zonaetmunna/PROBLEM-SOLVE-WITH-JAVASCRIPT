@@ -19,12 +19,12 @@ const numbers = [2, 5, 7, 8, 4, 9, 12, 56, 43];
 const largest = numbers[0];
 
 for (var i = 0; i < arr.length; i++) {
-    if (largest < arr[i] ) {
-        largest = arr[i];
-    }
+  if (largest < arr[i]) {
+    largest = arr[i];
+  }
 }
 console.log(largest);
 
 for (const number of numbers) {
-  
+
 }
